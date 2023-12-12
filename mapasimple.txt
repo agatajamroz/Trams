@@ -1,0 +1,16 @@
+line_19
+
+Kozanow 3 6
+PlBema 19 6
+Piastowska 30 6
+PlGrumwaldzki 30 10
+ZOO 40 20
+
+line_6
+
+Karlowice 12 1
+DworzecNadodrze 12 4
+Nowowiejska 19 4
+PlBema 19 6
+DowrzecGlowny 19 19
+DworzecAutobusowy 23 23
